@@ -1,2 +1,7 @@
 Hi today I am learning about git commits .
 It is very easy to learn.
+
+Git commands I learnt today:
+1.git init
+2.git add
+3.git commit
