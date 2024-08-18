@@ -1,2 +1,10 @@
 Hi today I am learning about git commits .
 It is very easy to learn.
+
+<html>
+<head>
+<body>
+<h1>Ok learn git as quick as possible .</h1>
+</body>
+</head>
+</html>
